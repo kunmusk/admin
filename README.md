@@ -1,1 +1,1 @@
-kunmusk.github.io/admin/
+https://kunmusk.github.io/admin
