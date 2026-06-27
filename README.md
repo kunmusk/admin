@@ -1,1 +1,1 @@
-https://h-over.github.io/admin
+kunmusk.github.io/admin/
